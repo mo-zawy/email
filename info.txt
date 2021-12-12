@@ -1,0 +1,6 @@
+First name: mohamed
+Last name: ahmed
+Email: mohamed.ahmed@sales.company.com
+Password: iUv+?vKQ
+Capacity: 500
+Alternate mail: null
